@@ -399,6 +399,115 @@ footer {
   background-position: center;
   background-size: cover; }
 
+
+.aboutUs .img__bookkeeping_and_accounts {
+  background-image: url(../images/booking-account.jpg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.aboutUs .img__finance_services {
+  background-image: url(../images/financial_service.jpg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.aboutUs .img__get_services {
+  background-image: url(../images/gst_services.jpg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.aboutUs .img__income_tax {
+  background-image: url(../images/taxation-management.jpg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.aboutUs .img__seo {
+  background-image: url(../images/seo-smm.jpg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.aboutUs .img__social_media_marketing {
+  background-image: url(../images/social_media_marketing.jpg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.aboutUs .img__content_development {
+  background-image: url(../images/content-development.png);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.aboutUs .img__web_design_and_development {
+  background-image: url(../images/website-design-development.jpg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.aboutUs .img__graphic_designing {
+  background-image: url(../images/graphic-designing.jpg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.aboutUs .img__finance_head {
+  background-image: url(../images/Adarsh_Chitlangya.jpg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.aboutUs .chairman {
+  background-image: url(../images/Moiz_Alamdar.jpeg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
+
+.aboutUs .director {
+  background-image: url(../images/Shabbir_Alamdar.jpg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
+
 .ourIdentity h1 {
   font-size: 2.2rem; }
   @media only screen and (max-width: 768px) {

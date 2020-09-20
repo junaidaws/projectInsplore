@@ -87,7 +87,7 @@
                                 <li class="nav-item dropdown">
                                     <a class="nav-link  dropdown-toggle" data-aos="zoom-in-down" href="javascript:void(0);" data-toggle="dropdown">  Finance  </a>
                                     <ul class="dropdown-menu fade-up">
-                                      <li><a class="dropdown-item" href="bookkeeping_and_accounts.php"> Bookkeeping & Accounts</a></li>
+                                      <li><a class="dropdown-item" href="bookkeeping_and_accounting.php"> Bookkeeping & Accounts</a></li>
                                       <li><a class="dropdown-item" href="gst_services.php"> GST Services </a></li>
                                       <li><a class="dropdown-item" href="income_tax.php"> Income Tax </a></li>
                                       <li><a class="dropdown-item" href="financial_services.php"> Financial Services </a></li>

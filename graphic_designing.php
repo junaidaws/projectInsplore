@@ -15,7 +15,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="img__aboutUs"></div>
+                    <div class="img__graphic_designing"></div>
                 </div>
                 <div class="col-lg-6">
                     <div class="details__aboutUs">
