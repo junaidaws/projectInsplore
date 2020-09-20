@@ -24,7 +24,7 @@
                         </p>
 
                         <p>
-                            With the changing business environment and the new digitized process of recording and documentation, it is crucial to maintain and review accounting data in line with Indian Accounting Standards and Policies. We ensure hassle-free and complaint management of your “Lekha-Jhokha” with our services over different platforms like Tally ERP9, Zoho, QuickBook as well as on client’s custom software.
+                            With the changing business environment and the new digitized process of recording and documentation, it is crucial to maintain and review accounting data in line with Indian Accounting Standards and Policies. We ensure hassle-free and compliant management of your “Lekha-Jhokha” with our services over different platforms like Tally ERP9, Zoho, QuickBook as well as on client’s custom software.
                         </p>
 
                         <p>

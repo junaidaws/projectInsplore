@@ -15,7 +15,7 @@
             <div class="container">
                 <div class="row d-flex justify-content-between align-items-center">
                     <div class="brandLogo">
-                        <a href="">
+                        <a href="index.php">
                             <img src="assets/images/logo.png" class="img-fluid" alt="" height="55" />
                         </a>
                     </div>
@@ -65,14 +65,13 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav mr-auto">
                                 <li class="nav-item" data-aos="zoom-in-down">
-                                    <a class="nav-link" href="index.html">Home</a>
+                                    <a class="nav-link" href="index.php">Home</a>
                                 </li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link  dropdown-toggle" data-aos="zoom-in-down" href="javascript:void(0);" data-toggle="dropdown">  About Us  </a>
                                     <ul class="dropdown-menu fade-up">
-                                      <li><a class="dropdown-item" href="aboutUs.html"> Vision</a></li>
-                                      <li><a class="dropdown-item" href="ourIdentity.html"> Mission </a></li>
-                                      <li><a class="dropdown-item" href="javascript:void(0);"> Why We? </a></li>
+                                      <li><a class="dropdown-item" href="why_we.php"> Why Acontax? </a></li>
+                                      <li><a class="dropdown-item" href="vision_mission.php"> Vision/Mission </a></li>
                                     </ul>
                                 </li>
                                 <li class="nav-item dropdown">
@@ -80,8 +79,8 @@
                                     <ul class="dropdown-menu fade-up">
                                       <li><a class="dropdown-item" href="chairman.php"> Chairman</a></li>
                                       <li><a class="dropdown-item" href="director.php"> Director </a></li>
-                                      <li><a class="dropdown-item" href="chief_strategist_officer.php"> Chief Strategist Officer </a></li>
-                                      <li><a class="dropdown-item" href="digital_marketing_head.php"> Finance Head </a></li>
+                                      <li><a class="dropdown-item" href="chief_mentor.php"> Chief Mentor </a></li>
+                                      <li><a class="dropdown-item" href="finance_head.php"> Finance Head </a></li>
                                       <li><a class="dropdown-item" href="digital_marketing_head.php"> Digital Marketing Head </a></li>
                                     </ul>
                                 </li>
@@ -108,7 +107,7 @@
                                     <a class="nav-link  dropdown-toggle" data-aos="zoom-in-down" href="javascript:void(0);" data-toggle="dropdown">  Careers  </a>
                                     <ul class="dropdown-menu fade-up">
                                       <li><a class="dropdown-item" href="javascript:void(0);"> Submit CV</a></li>
-                                      <li><a class="dropdown-item" href="javascript:void(0);"> Current Openings </a></li>
+                                      <!-- <li><a class="dropdown-item" href="javascript:void(0);"> Current Openings </a></li> -->
                                     </ul>
                                 </li>
                                 <li class="nav-item" data-aos="zoom-in-down">

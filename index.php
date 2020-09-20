@@ -1,3 +1,4 @@
+
 <?php include('header.php');?>
 
 <section>
@@ -66,7 +67,7 @@
     <div class="container">
         <div class="row d-flex justify-content-center align-items-center">
             <div class="col-lg-6" data-aos="fade-right" data-aos-delay="50">
-                <h2>Need an expert’s guidance? </h2>
+                <h2><b>Need an expert’s guidance?</b></h2>
             </div>
             <div class="col-lg-6 explore text-center" data-aos="fade-left" data-aos-delay="50">
                 <button type="button" class="btn">Ask Here</button>
