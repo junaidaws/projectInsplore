@@ -4,8 +4,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Finance </h2>
-                    <p>Bookkeeping & Accounts</p>
+                    <h2>Bookkeeping & Accounting </h2>
+                    <!-- <p>Bookkeeping & Accounts</p> -->
                 </div>
             </div>
         </div>
@@ -20,7 +20,7 @@
                 <div class="col-lg-6">
                     <div class="details__aboutUs">
                         <p>
-                            Accounting & Book-Keeping is one of the many services offered by Acontax Consultancy to its clients. As a service provider of accounting and bookkeeping services PAN India, we efficiently cater to the varied day-to-day back-office accounting needs of our clients.
+                            Book-Keeping & Accounting is one of the many services offered by Acontax Consultancy to its clients. As a service provider of accounting and bookkeeping services PAN India, we efficiently cater to the varied day-to-day back-office accounting needs of our clients.
                         </p>
 
                         <p>

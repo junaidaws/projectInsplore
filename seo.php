@@ -4,8 +4,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Digital Marketing </h2>
-                    <p>Search Engine Optimization</p>
+                    <h2>Search Engine Optimization</h2>
+                    <!-- <p>Search Engine Optimization</p> -->
                 </div>
             </div>
         </div>

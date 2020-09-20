@@ -4,8 +4,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Digital Marketing </h2>
-                    <p>Content Development & Management</p>
+                    <h2>Content Development & Management</h2>
+                    <!-- <p>Content Development & Management</p> -->
                 </div>
             </div>
         </div>

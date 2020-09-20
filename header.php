@@ -99,7 +99,7 @@
                                       <li><a class="dropdown-item" href="seo.php"> Search Engine Optimization </a></li>
                                       <li><a class="dropdown-item" href="social_media_marketing.php"> Social Media Marketing </a></li>
                                       <li><a class="dropdown-item" href="content_development_and_management.php"> Content Development & Management </a></li>
-                                      <li><a class="dropdown-item" href="web_development_and_development.php"> Web Design & Development </a></li>
+                                      <li><a class="dropdown-item" href="web_design_and_development.php"> Web Design & Development </a></li>
                                       <li><a class="dropdown-item" href="graphic_designing.php"> Graphic Designing </a></li>
                                     </ul>
                                 </li>

@@ -4,8 +4,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Finance </h2>
-                    <p>Income Tax</p>
+                    <h2>Income Tax </h2>
+                    <!-- <p>Income Tax</p> -->
                 </div>
             </div>
         </div>

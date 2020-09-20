@@ -4,8 +4,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Our Team </h2>
-                    <!-- <p>Profiles of team members</p> -->
+                    <h2>Shabbir Alamdar</h2>
+                    <p>Director</p>
                 </div>
             </div>
         </div>
