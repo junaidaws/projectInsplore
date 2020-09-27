@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Search Engine Optimization</h2>
+                    <h2><b>Search Engine Optimization</b></h2>
                     <!-- <p>Search Engine Optimization</p> -->
                 </div>
             </div>

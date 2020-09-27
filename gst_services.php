@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>GST Services </h2>
+                    <h2><b>GST Services</b></h2>
                     <!-- <p>GST Services</p> -->
                 </div>
             </div>

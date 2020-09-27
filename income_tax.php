@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Income Tax </h2>
+                    <h2><b>Income Tax</b></h2>
                     <!-- <p>Income Tax</p> -->
                 </div>
             </div>

@@ -43,7 +43,7 @@
         <div class="row">
             <div class="col col-lg-4 col-md-4 col-sm-12 col-12 text-center pdTop6 pdBottom6" data-aos="fade" data-aos-duration="1000" data-aos-delay="100">
                 <div class="graduateIc">
-                    <img src="assets/images/graduate.svg" alt="" width="36" height="28" />
+                    <img src="assets/images/Logo_Finance_Home.jpg" alt="" width="36" height="28" />
                 </div>
                 <h2 class="">Finance</h2>
             </div>
@@ -55,7 +55,7 @@
             </div>
             <div class="col-lg-4 text-center pdTop6 pdBottom6" data-aos="fade" data-aos-duration="1000" data-aos-delay="300">
                 <div class="starIc">
-                    <img src="assets/images/star.svg" alt="" width="36" height="28" />
+                    <img src="assets/images/Logo_DM_Home.jpg" alt="" width="36" height="28" />
                 </div>
                 <h2>Digital Marketing </h2>
             </div>
@@ -70,7 +70,9 @@
                 <h2><b>Need an expert’s guidance?</b></h2>
             </div>
             <div class="col-lg-6 explore text-center" data-aos="fade-left" data-aos-delay="50">
-                <button type="button" class="btn">Ask Here</button>
+                <button type="button" class="btn">
+                    <a style="color: white" href="contact_us.php">Ask Here</a>
+                </button>
             </div>
         </div>
     </div>

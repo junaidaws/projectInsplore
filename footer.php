@@ -7,82 +7,66 @@
                 <div class="col-lg-4">
                     <h2>About Us</h2>
                     <ul class="">
-                        <li><a href="javascript:void(0);">Home</a></li>
-                        <li><a href="javascript:void(0);">Why Insplore?</a></li>
-                        <li><a href="javascript:void(0);">Our Identity, Mission & Vision</a></li>
-                        <li><a href="javascript:void(0);">Life @ Insplore</a></li>
+                        <li><a href="why_we.php"> Why Acontax? </a></li>
+                        <li><a href="vision_mission.php"> Vision/Mission </a></li>
                     </ul>
                     <h2 class="mgt-6">Contact Us</h2>
                     <ul class="">
-                        <li><a href="javascript:void(0);">Home</a></li>
+                        <li><a href="contact_us.php">Home</a></li>
                     </ul>
                     <h2 class="mgt-6">Follow Us</h2>
                     <ul class="">
                         <li class="list-inline-item">
-                            <a href="javascript:void(0);">
+                            <a target="_blank" href="https://www.facebook.com/Acontax-Consultancy-Private-Limited-100570468442069/">
                                 <img src="assets/images/facebook.svg" alt="" height="18" />
                             </a>
                         </li>
-                        <li class="list-inline-item">
+                        <!-- <li class="list-inline-item">
                             <a href="javascript:void(0);">
                                 <img src="assets/images/twitter.svg" alt="" height="18" />
                             </a>
-                        </li>
+                        </li> -->
                         <li class="list-inline-item">
-                            <a href="javascript:void(0);">
+                            <a target="_blank" href="https://www.linkedin.com/company/acontax-consultancy-private-limited">
                                 <img src="assets/images/linkedin.svg" alt="" height="18" />
                             </a>
                         </li>
                     </ul>
                     <h2 class="mgt-6">Careers</h2>
                     <ul class="">
-                        <li><a href="javascript:void(0);">Home</a></li>
-                        <li><a href="javascript:void(0);">Why Insplore?</a></li>
-                        <li><a href="javascript:void(0);">Our Identity, Mission & Vision</a></li>
-                        <li><a href="javascript:void(0);">Life @ Insplore</a></li>
+                        <li><a href="submit.php">Home</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4">
-                    <h2>Services</h2>
+                    <h2>Our Team</h2>
                     <ul class="">
-                        <li><a href="javascript:void(0);">portfolio Management</a></li>
-                        <li><a href="javascript:void(0);">financial Analysis</a></li>
-                        <li><a href="javascript:void(0);">Recruitment</a></li>
-                        <li><a href="javascript:void(0);">Internship Programme</a></li>
-                        <li><a href="javascript:void(0);">Destress Your Tax</a></li>
-                        <li><a href="javascript:void(0);">Professional Skills Development</a></li>
+                        <li><a href="chairman.php"> Chairman</a></li>
+                        <li><a href="director.php"> Director </a></li>
+                        <li><a href="chief_mentor.php"> Chief Mentor </a></li>
+                        <li><a href="finance_head.php"> Finance Head </a></li>
+                        <li><a href="digital_marketing_head.php"> Digital Marketing Head </a></li>
                     </ul>
-                    <h2 class="mgt-6">Smart Investment</h2>
+                    <h2 class="mgt-6">Finance</h2>
                     <ul class="">
-                        <li><a href="javascript:void(0);">Real Estate</a></li>
-                        <li><a href="javascript:void(0);">Mutual Fund</a></li>
-                        <li><a href="javascript:void(0);">Insurace</a></li>
-                        <li><a href="javascript:void(0);">Stock Market</a></li>
-                        <li><a href="javascript:void(0);">Gold Investments</a></li>
+                        <li><a href="bookkeeping_and_accounting.php"> Bookkeeping & Accounts</a></li>
+                        <li><a href="gst_services.php"> GST Services </a></li>
+                        <li><a href="income_tax.php"> Income Tax </a></li>
+                        <li><a href="financial_services.php"> Financial Services </a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4">
-                    <h2>Industry Practices</h2>
+                    <h2>Digital Marketing</h2>
                     <ul class="">
-                        <li><a href="javascript:void(0);">Information Technology</a></li>
-                        <li><a href="javascript:void(0);">Process</a></li>
-                        <li><a href="javascript:void(0);">Telecom</a></li>
-                        <li><a href="javascript:void(0);">Advertisement</a></li>
-                        <li><a href="javascript:void(0);">Logistics</a></li>
-                        <li><a href="javascript:void(0);">Education</a></li>
-                        <li><a href="javascript:void(0);">Financial Services</a></li>
-                        <li><a href="javascript:void(0);">FMCG</a></li>
-                        <li><a href="javascript:void(0);">Health Care</a></li>
-                        <li><a href="javascript:void(0);">Automobile</a></li>
-                        <li><a href="javascript:void(0);">Electronics</a></li>
-                        <li><a href="javascript:void(0);">Retail</a></li>
-                        <li><a href="javascript:void(0);">Pharmaceuticals (Device & Diagnostics)</a></li>
-                        <li><a href="javascript:void(0);">Services</a></li>
+                        <li><a href="seo.php"> Search Engine Optimization </a></li>
+                        <li><a href="social_media_marketing.php"> Social Media Marketing </a></li>
+                        <li><a href="content_development_and_management.php"> Content Development & Management </a></li>
+                        <li><a href="web_design_and_development.php"> Web Design & Development </a></li>
+                        <li><a href="graphic_designing.php"> Graphic Designing </a></li>
                     </ul>
                 </div>
                 <div class="col-lg-12 copyRightText text-center">
-                    <p class="mb-0">© Insplore 2018. All Rights Reserved.</p>
-                    <p>Crafted by <a href="javascript:void(0);">Stacknowledge</a></p>
+                    <p class="mb-0">© Acontax 2020. All Rights Reserved.</p>
+                    <p></p>
                 </div>
             </div>
         </div>
@@ -101,10 +85,6 @@
         <script>
             AOS.init();
           </script>
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
-    <script>
-        new WOW().init();
-    </script> -->
 </body>
 
 </html>

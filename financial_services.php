@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Financial Services </h2>
+                    <h2><b>Financial Services</b></h2>
                     <!-- <p>Financial Services</p> -->
                 </div>
             </div>

@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Dr. Sarfaraz Ansari </h2>
+                    <h2><b>Dr. Sarfaraz Ansari</b></h2>
                     <p>Chief Mentor</p>
                 </div>
             </div>
@@ -15,7 +15,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="img__aboutUs"></div>
+                    <div class="img__cheif_mentor"></div>
                 </div>
                 <div class="col-lg-6">
                     <div class="details__aboutUs">

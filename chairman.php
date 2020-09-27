@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Moiz Alamdar  </h2>
+                    <h2><b>Moiz Alamdar</b></h2>
                     <p>Founder & Chairman</p>
                 </div>
             </div>

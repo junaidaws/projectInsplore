@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Bookkeeping & Accounting </h2>
+                    <h2><b>Bookkeeping & Accounting</b></h2>
                     <!-- <p>Bookkeeping & Accounts</p> -->
                 </div>
             </div>

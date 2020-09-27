@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Why Acontax?</h2>
+                    <h2><b>Why Acontax?</b></h2>
                 </div>
             </div>
         </div>

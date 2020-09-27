@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Adarsh Chitlangya </h2>
+                    <h2><b>Adarsh Chitlangya</b></h2>
                     <p>Finance Head</p>
                 </div>
             </div>

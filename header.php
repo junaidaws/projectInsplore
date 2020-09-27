@@ -28,22 +28,22 @@
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="javascript:void(0);">
-                                    <img src="assets/images/mail.svg" alt="" />
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="javascript:void(0);">
+                                <a target="_blank" href="https://www.facebook.com/Acontax-Consultancy-Private-Limited-100570468442069/">
                                     <img src="assets/images/facebook.svg" alt="" />
                                 </a>
                             </li>
-                            <li class="list-inline-item">
+                            <!-- <li class="list-inline-item">
+                                <a href="javascript:void(0);">
+                                    <img src="assets/images/mail.svg" alt="" />
+                                </a>
+                            </li> -->
+                            <!-- <li class="list-inline-item">d
                                 <a href="javascript:void(0);">
                                     <img src="assets/images/twitter.svg" alt="" />
                                 </a>
-                            </li>
+                            </li> -->
                             <li class="list-inline-item">
-                                <a href="javascript:void(0);">
+                                <a target="_blank" href="https://www.linkedin.com/company/acontax-consultancy-private-limited">
                                     <img src="assets/images/linkedin.svg" alt="" />
                                 </a>
                             </li>
@@ -106,12 +106,11 @@
                                 <li class="nav-item dropdown">
                                     <a class="nav-link  dropdown-toggle" data-aos="zoom-in-down" href="javascript:void(0);" data-toggle="dropdown">  Careers  </a>
                                     <ul class="dropdown-menu fade-up">
-                                      <li><a class="dropdown-item" href="javascript:void(0);"> Submit CV</a></li>
-                                      <!-- <li><a class="dropdown-item" href="javascript:void(0);"> Current Openings </a></li> -->
+                                      <li><a class="dropdown-item" href="submit.php"> Submit CV</a></li>
                                     </ul>
                                 </li>
                                 <li class="nav-item" data-aos="zoom-in-down">
-                                    <a class="nav-link" href="javascript:void(0);">Contact Us</a>
+                                    <a class="nav-link" href="contact_us.php">Contact Us</a>
                                 </li>
                             </ul>
                         </div>

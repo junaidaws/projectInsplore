@@ -490,6 +490,24 @@ footer {
   background-size: cover;
 }
 
+.aboutUs .img__digital_head {
+  background-image: url(../images/Suhail_Khan.jpeg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
+
+.aboutUs .img__cheif_mentor {
+  background-image: url(../images/Sarfaraz_Ansari.jpg);
+  width: 100%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
+
 .aboutUs .chairman {
   background-image: url(../images/Moiz_Alamdar.jpeg);
   width: 100%;

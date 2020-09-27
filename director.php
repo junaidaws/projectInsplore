@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Shabbir Alamdar</h2>
+                    <h2><b>Shabbir Alamdar</b></h2>
                     <p>Director</p>
                 </div>
             </div>

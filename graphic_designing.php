@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Graphic Designing </h2>
+                    <h2><b>Graphic Designing</b></h2>
                     <!-- <p>Graphic Designing</p> -->
                 </div>
             </div>

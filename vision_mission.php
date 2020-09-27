@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Mission & Vision </h2>
+                    <h2><b>Mission & Vision</b></h2>
                 </div>
             </div>
         </div>
