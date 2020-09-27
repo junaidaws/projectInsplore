@@ -19,18 +19,19 @@
         
             //check that this file type is allowed
             if (in_array($extension,$allowed_extensions)){
-            
+                
                 //mail essenstials
                 $from = $_POST['email'];
-                $to = "info@acontaxconsultancy.com";   //change to
+                //$to = "info@acontaxconsultancy.com";  
+                $to = "info@acontaxconsultancy.com";
                 $subject = "Career CV";  //change to
-                $message = "Name -".$_POST['name'];
-                $message .= "<br/>";
-                $message .= "Email -".$_POST['email'];
-                $message .= "<br/>";
-                $message .= "Contact -".$_POST['contact'];
-                $message .= "<br/>";
-                $message .= "Message -".$_POST['message'];
+                $body = "Name -".$_POST['name'];
+                $body .= "<br/>";
+                $body .= "Email -".$_POST['email'];
+                $body .= "<br/>";
+                $body .= "Contact -".$_POST['contact'];
+                $body .= "<br/>";
+                $body .= "Message -".$_POST['message'];
                 
             
                 //things you need
@@ -39,20 +40,28 @@
                 $uid = md5(uniqid(time()));
             
                 //standard mail headers
-                $header = "From: dj4maza.com@gmail.com \r\n";
-                $header .= "Reply-To: ".$from."\r\n";
+
+                // Basic headers
+                $eol = PHP_EOL;
+                $header = "From: ".$_POST['name']." <".$from.">".$eol;
+                $header .= "Reply-To: ".$_POST['email'].$eol;
                 $header .= "MIME-Version: 1.0\r\n";
-            
-                //declaring we have multiple kind of email (i.e plain text and attachment.
-                $header .= "Content-Type: multipart/mixed; boundary=\"".$uid."\"\r\n\r\n";
-                
-                //file attachment
-                $header .= "--".$uid."\r\n";
-                $header .= "Content-Type: ".$file_type."; name=\"".$file_name."\"\r\n";
-                $header .= "Content-Transfer-Encoding: base64\r\n";
-                $header .= "Content-Disposition: attachment; filename=\"".$file_name."\"\r\n";
-                $header .= $content."\r\n\r\n";
-            
+                $header .= "Content-Type: multipart/mixed; boundary=\"".$uid."\"";
+
+                // Put everything else in $message
+                $message = "--".$uid.$eol;
+                $message .= "Content-Type: text/html; charset=ISO-8859-1".$eol;
+                $message .= "Content-Transfer-Encoding: 8bit".$eol.$eol;
+                $message .= $body.$eol;
+                $message .= "--".$uid.$eol;
+                $message .= "Content-Type: application/pdf; name=\"".$file_name."\"".$eol;
+                $message .= "Content-Transfer-Encoding: base64".$eol;
+                $message .= "Content-Disposition: attachment; filename=\"".$file_name."\"".$eol;
+                $message .= $content.$eol;
+                $message .= "--".$uid."--";
+
+
+
                 //send the mail (message is not here, but in the header in a multi part
                 if(mail($to,$subject,$message,$header)){
                     //echo "Mail Have been Send, Thanking you mail us.";
